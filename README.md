@@ -4,4 +4,4 @@
 
 3.读取doc的过程迂回了一下，用win32com调用office客户端，将doc转为了临时docx文件。
 
-4.图像识别采用tesseract，用pytesseract调用。
+4.图像识别采用tesseract，用pytesseract调用（后改用百度OCR接口）。
